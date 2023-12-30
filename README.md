@@ -1,4 +1,4 @@
-# Radinho-System
+# Sistema de radinho
 
 ⭕ Aqui você pode consultar todas as informações sobre o sistema de radinho.
 
