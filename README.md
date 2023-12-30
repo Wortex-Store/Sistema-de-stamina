@@ -5,5 +5,7 @@
 📲 **Nossos contatos:**
 
 ⛓️ [Site](http://wortexstore.com.br/)
+
 💾 [Instagram](https://instagram.com/wortexstore)
+
 ☎️ [Discord](https://discord.gg/wortex)
