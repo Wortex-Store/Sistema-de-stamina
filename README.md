@@ -2,7 +2,7 @@
 
 ⭕ Aqui você pode consultar todas as informações sobre o sistema de radinho.
 
-📲 **Nossos contatos:**
+📲 **Contatos:**
 
 ⛓️ [Site](http://wortexstore.com.br/)
 
