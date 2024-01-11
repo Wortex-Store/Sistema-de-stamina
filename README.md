@@ -1,6 +1,6 @@
-# Sistema de radinho
+# Sistema de anti lag
 
-⭕ [Aqui](https://github.com/Wortex-Store/Radinho-System/wiki/Radinho) você pode consultar todas as informações sobre o sistema de radinho.
+⭕ [Aqui](https://github.com/Wortex-Store/Anti-Lag/wiki/AntiLag) você pode consultar todas as informações sobre o sistema de radinho.
 
 📲 **Contatos:**
 
