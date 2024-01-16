@@ -1,6 +1,6 @@
-# Sistema de anti lag
+# Gerenciador de mods
 
-⭕ [Aqui](https://github.com/Wortex-Store/Anti-Lag/wiki/AntiLag) você pode consultar todas as informações sobre o sistema de radinho.
+⭕ [Aqui](https://github.com/guamr/Gerenciador-de-mods/wiki/Gerenciador-de-mods) você pode consultar todas as informações sobre o gerenciador de mods.
 
 📲 **Contatos:**
 
