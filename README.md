@@ -1,6 +1,6 @@
-# Gerenciador de mods
+# Custom CJ
 
-⭕ [Aqui](https://github.com/guamr/Wortex-Store/wiki/Gerenciador-de-mods) você pode consultar todas as informações sobre o gerenciador de mods.
+⭕ [Aqui](https://github.com/guamr/Wortex-Store/wiki/Custom-CJ) você pode consultar todas as informações sobre o custom cj.
 
 📲 **Contatos:**
 
