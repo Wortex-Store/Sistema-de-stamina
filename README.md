@@ -1,6 +1,6 @@
 # Custom CJ
 
-⭕ [Aqui](https://github.com/guamr/Wortex-Store/wiki/Custom-CJ) você pode consultar todas as informações sobre o custom cj.
+⭕ [Aqui](https://github.com/Wortex-Store/wiki/Custom-CJ) você pode consultar todas as informações sobre o custom cj.
 
 📲 **Contatos:**
 
