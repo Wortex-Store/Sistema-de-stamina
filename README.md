@@ -1,6 +1,6 @@
-# Custom CJ
+# Sistema de ID
 
-⭕ [Aqui](https://github.com/Wortex-Store/Custom-CJ/wiki/Custom-CJ) você pode consultar todas as informações sobre o custom cj.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-ID/wiki/Sistema-de-ID) você pode consultar todas as informações sobre o sistema de id.
 
 📲 **Contatos:**
 
