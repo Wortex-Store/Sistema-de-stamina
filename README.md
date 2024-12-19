@@ -1,6 +1,6 @@
-# Sistema de ID
+# Sistema de Huds
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-ID/wiki/Sistema-de-ID) você pode consultar todas as informações sobre o sistema de id.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-huds/wiki/Sistema-de-huds) você pode consultar todas as informações sobre o sistema de id.
 
 📲 **Contatos:**
 
