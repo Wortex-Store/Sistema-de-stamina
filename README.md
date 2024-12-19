@@ -1,6 +1,6 @@
-# Sistema de Huds
+# Sistema de stamina
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-huds/wiki/Sistema-de-huds) você pode consultar todas as informações sobre o sistema de id.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-stamina/wiki/Sistema-de-stamina) você pode consultar todas as informações sobre o sistema de stamina.
 
 📲 **Contatos:**
 
